@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(135deg, #FFB17A, #FFD47F, #FF9A9E);
+  min-height: 100vh;
+  color: #000;
+  overflow-x: hidden;
+}
+
+.hero {
+  position: relative;
+  padding: 4rem 2rem;
+  text-align: center;
+  max-width: 1100px;
+  margin: auto;
+}
+
+.logo {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-top: 89px;
+}
+
+h2 {
+  font-size: 72px;
+  font-weight: 700;
+  margin: 1rem 0 0.5rem;
+  line-height: 1.2;
+  margin-top: 128px;
+}
+
+.subtitle {
+  font-size: 29px;
+  color: #000000;
+  margin-bottom: 1.5rem;
+  margin-top: 40px;
+}
+
+.cta-button {
+  background-color: #000;
+  color: #fff;
+  padding: 26px 61px;
+  border: none;
+  border-radius: 999px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 20px;
+  margin-bottom: 32px;
+  margin-top: 45px;
+}
+
+.note {
+  font-size: 0.85rem;
+  color: #555;
+  margin-top: 0.25rem;
+}
+
+.features {
+  display: flex;
+  gap: 48px;
+  margin-top: 3rem;
+  text-align: left;
+}
+
+.feature {
+  padding: 1rem;
+  border-radius: 12px;
+  backdrop-filter: blur(10px);
+}
+.love{
+  margin-right: 5px;
+}
+h3{
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+}
+ .features p {
+  font-size: 17px;
+  text-align: center;
+
+}
+
+.apon{
+  margin-left: 61px;
+}
